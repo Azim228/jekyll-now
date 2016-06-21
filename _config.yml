@@ -19,7 +19,7 @@ avatar: https://pbs.twimg.com/profile_images/638751551457103872/KN-NzuRl.png
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: 
   flickr:
   github: barryclark/jekyll-now
   instagram:
@@ -29,7 +29,7 @@ footer-links:
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: ?utm_source=OGB# anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
