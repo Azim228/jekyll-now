@@ -1,9 +1,9 @@
 ---
 layout: post
-title: I am playing the HeartStone
+title: Uncharted the thief's end Nathan Drake's collection edition CHETYRE
 ---
 
-I forgot my account password and started playing in new account
+DISYAT iz DISYATY ATCENKA AJYMKI POS SKRIPTON NEBESNOY IZUMINKI EWE ODIN POS SKRIPTON ANUAR BOJIT
 
 ![_config.yml](http://u.kanobu.ru/spec/uncharted-4-thiefs-end/uncharted.jpg)
 
