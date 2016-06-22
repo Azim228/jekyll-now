@@ -11,7 +11,7 @@ I am student of NISA IB school in Astana, such that I am good at math, tech, phy
 ### More Information
 
 Past:
-I am born in Karagandy but switched living place after 3 weeks after borning. 
+I was born in Karagandy but switched living place after 3 weeks after borning. 
 
 I am studying in NISA IB school. 
 
