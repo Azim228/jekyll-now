@@ -31,3 +31,7 @@ Kaguya Ōtsutsuki Strikes
 
 Kaguya Ōtsutsuki Strikes , known as The Great Ninja War - Kaguya Ōtsutsuki Strikes in the anime, is an arc from Part II of the series. This arc sees the introduction of alien Princess Kaguya Ōtsutsuki and her subsequent attempt to take over the world. This arc is preceded by the Birth of the Ten-Tails' Jinchūriki and followed by the events of The Last: Naruto the Movie, Naruto Hiden series, the epilogue and Naruto Gaiden: The Seventh Hokage and the Scarlet Spring. In the anime, the Jiraiya Shinobi Handbook: The Tale of Naruto the Hero and the Itachi Shinden Book: Light and Darkness arcs take place in-between the earlier episodes.
 
+Bibliography:
+
+http://naruto.wikia.com/wiki/Plot_of_Naruto
+
