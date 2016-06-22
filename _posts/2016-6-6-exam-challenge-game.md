@@ -6,6 +6,6 @@ title: Exam Challenge Game
 
 Read more about Exam Challenge Game
 
-![_config.yml](blob:https://drive.google.com/a60241c8-64e3-4286-bea5-1044c416d3f6)
+![_config.yml](http://s2.quickmeme.com/img/7f/7fd56cf3a5c8a0fc74581b7b90988d7d374a17e8ce7549860adb9dea1dc547a6.jpg)
 
 (https://azim228.github.io/exam-challenge-game/)
