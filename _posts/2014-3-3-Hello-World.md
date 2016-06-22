@@ -28,3 +28,7 @@ Geralt spends the night at the old palace (Foltest having moved to a new palace,
 Geralt fights with the striga, reluctant to use his silver sword. He ties the striga with a silver chain, which she breaks free of, despite silver being a antithesis to monsters of magic. She is eventually scared off when Geralt uses his sorcery to project the hate and malice in her own mind back at her. Geralt settles in for the night in the double coffin to wait for morning (not allowing the striga to sleep in her original coffin until the third crow of the rooster which would break the curse). In the morning, he sees an ordinary little girl who is lying on the floor. Leaning over her, he sees too late that her eyes are open. Using the last remainents of her talons, the striga slashes Geralt's throat. As he subdues the girl/striga, Geralt hears the third crowing of the rooster. Finally, he binds his neck, knowing he will faint.
 
 The witcher wakes up, his neck bandaged, with Velerad (who was part of the group that had planned to just have the striga killed) admitting he was in the wrong. He assures Geralt that his silver sword, his three thousand oren reward and his possessions are safe. Geralt, soothed, falls asleep.
+
+Bibliography:
+
+http://witcher.wikia.com/wiki/The_Witcher_(short_story)
