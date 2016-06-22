@@ -13,6 +13,7 @@ Each character has the same control but different spells
 You are playing against one player or command mode with 3 characters versus 3 characters
 
 Winning Condition:
+
 Complete the story mode
 Win the battle
 
