@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am student of NISA IB school in Astana, such that I am good at math, tech, physics and little bit 
 
 ### More Information
 
