@@ -26,6 +26,4 @@ In 12th grade I should take IB Diploma and end up with DP and MYP program
 I really like piano and I will learn how to play on it
 In future I want write a book
 
-### Contact me
 
-[email@domain.com](azimpsvita@gmail.com)
