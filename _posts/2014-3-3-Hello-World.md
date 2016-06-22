@@ -2,6 +2,7 @@
 layout: post
 title: Witcher 3
 ---
+![_config.yml](http://blogs-images.forbes.com/insertcoin/files/2015/06/the-witcher-3-new-e1433431220213.jpg)
 
 Read more about the Witcher 3 Wild Hunt
 
