@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I am student of NISA IB school in Astana, such that I am good at math, tech, physics and little bit
+I am student of NISA IB school in Astana, such that I am good at math, tech, physics and little bit World History
 
 
 
