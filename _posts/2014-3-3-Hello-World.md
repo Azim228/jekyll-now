@@ -32,4 +32,4 @@ The witcher wakes up, his neck bandaged, with Velerad (who was part of the group
 
 Bibliography:
 
-http://witcher.wikia.com/wiki/The_Witcher_(short_story)
+http://witcher.wikia.com/wiki/The_Witcher_short_story
