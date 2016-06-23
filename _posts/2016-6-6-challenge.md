@@ -2,7 +2,7 @@
 layout: post
 title: Game
 ---
-![](http://cs633928.vk.me/v633928909/3b6a2/Mtjr80CRA3Y.jpg)
+![](http://cs633928.vk.me/v633928909/3b74e/hsZF0x0P-mw.jpg)
 
 
 Retrieved from: http://s2.quickmeme.com/img/7f/7fd56cf3a5c8a0fc74581b7b90988d7d374a17e8ce7549860adb9dea1dc547a6.jpg
