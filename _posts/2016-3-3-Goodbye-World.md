@@ -1,37 +1,31 @@
 ---
 layout: post
-title: Naruto Shippuden Ultimate Ninja Storm 4 for PS4
+title: Developers
 ---
 ![_config.yml](http://coop-land.ru/uploads/posts/2016-02/1454589740_naruto.jpg)
-Learn more Naruto Shippuden Ultimate Ninja Storm 4 for PS4
+Learn more about developers and their roles
 
 ![_config.yml](http://images-eds.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcegOkVb21TDTzcq5gnihG6VlWWI7EHdms767cI7A8IT8M5dE7ZEUqoN.B8UixPrhv.x0K4CEuOpm4.02uGifItOxZaT_sB2vtbUHYjWDzsNNAPXxIHxmFDffoVocrHooys1Of7ye3jQ0UGoqS2q50Ebgw_IWc6B_7NBa9_ZmCt_8-&format=jpg)
 
-Rules:
-You can choose among 100+ heroes in game
-Each character has the same control but different spells
-You are playing against one player or command mode with 3 characters versus 3 characters
+Producer:
 
-Winning Condition:
+Producers are managers of the project, often they invest to the project. Main purpose is organising the whole work. He is providing resources.
 
-Complete the story mode
-Win the battle
+Designer:
 
-Story:
+Designers are doing planning of the whole work. They make "blue prints" for the work. Designers decide how product will look like and make detailed plan with instructions for the whole teams.
 
-The Fourth Shinobi World War
+Engineer:
 
-Climax known as The Great Ninja War - Assailants From Afar, The Great Ninja War - Sasuke and Itachi and The Great Ninja War - Team 7 Returns in the anime, is an arc from Part II of the series. This arc sees the Allied Shinobi Forces' fight against Kabuto Yakushi, Tobi, and Madara Uchiha as part of the ongoing Fourth Shinobi World War. This arc is preceded by the Fourth Shinobi World War: Confrontation and followed by the Birth of the Ten-Tails' Jinchūriki, though in the anime, the two-part Mecha-Naruto stand-alone episodes takes place in between both arcs. Also in the anime, the Kakashi's Anbu Arc: The Shinobi That Lives in the Darkness arc was shown in the interim.
+Usually engineers build the product using variety of resources. "Engineers design materials, structures, and systems while considering the limitations imposed by practicality, regulation, safety, and cost." 
 
-Birth of the Ten-Tails' Jinchūriki
+Scientist:
 
-Birth of the Ten-Tails' Jinchūriki, known as The Great Ninja War - Obito Uchiha, and The Great Ninja War - Infinite Tsukuyomi in the anime, is an arc from Part II of the series. This arc sees Obito Uchiha and Madara Uchiha becoming the jinchūriki of the Ten-Tails. This arc is preceded by the Fourth Shinobi World War: Climax and is followed by Kaguya Ōtsutsuki Strikes. In the anime, this arc is preceded by two Mecha-Naruto stand-alone episodes. Also in the anime, two stand-alone episodes involving Hanabi Hyūga, In Naruto's Footsteps: The Friends' Paths arc and two stand-alone episodes involving Konohamaru Sarutobi were shown in the interim.
+"A scientist is a person engaging in a systematic activity to acquire knowledge that describes and predicts the natural world." Scientists make hypothesis, predict and assess the product. It is needed to measure the success of the work and also they collect data from this scientists.
 
-Kaguya Ōtsutsuki Strikes
+Artist
 
-Kaguya Ōtsutsuki Strikes , known as The Great Ninja War - Kaguya Ōtsutsuki Strikes in the anime, is an arc from Part II of the series. This arc sees the introduction of alien Princess Kaguya Ōtsutsuki and her subsequent attempt to take over the world. This arc is preceded by the Birth of the Ten-Tails' Jinchūriki and followed by the events of The Last: Naruto the Movie, Naruto Hiden series, the epilogue and Naruto Gaiden: The Seventh Hokage and the Scarlet Spring. In the anime, the Jiraiya Shinobi Handbook: The Tale of Naruto the Hero and the Itachi Shinden Book: Light and Darkness arcs take place in-between the earlier episodes.
+"An artist is a person engaged in one or more of any of a broad spectrum of activities related to creating art, practicing the arts, and/or demonstrating an art." He works on visual part of the world
 
-Bibliography:
 
-http://naruto.wikia.com/wiki/Plot_of_Naruto
-
+I want to be an engineer because I like programming and makking programs, such that it seems that engineer work is the best for me. Designer is also good but often I couldn't inspire myself and it would be hard for me but engineer work has more specific tasks.
