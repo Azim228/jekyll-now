@@ -3,6 +3,7 @@ layout: post
 title: Monster picture
 ---
 ![_config.yml](http://cs633928.vk.me/v633928909/3b6a2/Mtjr80CRA3Y.jpg)
+
 Learn more about monster image from java script
 
 "Processing is an open source programming language and integrated development environment (IDE) built for the electronic arts, new media art, and visual design communities with the purpose of teaching the fundamentals of computer programming in a visual context, and to serve as the foundation for electronic sketchbooks."
