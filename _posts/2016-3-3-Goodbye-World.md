@@ -2,10 +2,10 @@
 layout: post
 title: Developers
 ---
-![_config.yml](http://coop-land.ru/uploads/posts/2016-02/1454589740_naruto.jpg)
+![_config.yml](http://icons.iconarchive.com/icons/janosch500/tropical-waters-folders/512/Developers-icon.png)
 Learn more about developers and their roles
 
-![_config.yml](http://images-eds.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcegOkVb21TDTzcq5gnihG6VlWWI7EHdms767cI7A8IT8M5dE7ZEUqoN.B8UixPrhv.x0K4CEuOpm4.02uGifItOxZaT_sB2vtbUHYjWDzsNNAPXxIHxmFDffoVocrHooys1Of7ye3jQ0UGoqS2q50Ebgw_IWc6B_7NBa9_ZmCt_8-&format=jpg)
+![_config.yml](http://www.vinedigital.co.uk/images/icons/web-design-icon.png)
 
 Producer:
 
