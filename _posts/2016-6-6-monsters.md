@@ -7,6 +7,6 @@ Learn more about monster image from java script
 
 ![_config.yml](http://www.slate.com/content/dam/slate/articles/arts/movies/2013/06/130620_MOV_MonstersUPixar.jpg.CROP.original-original.jpg)
 
-https://azim228.github.io/monster-pic/
+(https://azim228.github.io/monster-pic/)
 
 
