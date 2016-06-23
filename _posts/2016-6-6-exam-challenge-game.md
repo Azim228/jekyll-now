@@ -8,4 +8,4 @@ Read more about Exam challenge
 
 ![_config.yml](https://lblearningservices.files.wordpress.com/2015/03/takehomeblog-challenge.jpg)
 
-https://azim228.github.io/exam-challenge-game/
+[Link to the game](https://azim228.github.io/exam-challenge-game/)
