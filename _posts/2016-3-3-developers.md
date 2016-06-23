@@ -3,6 +3,7 @@ layout: post
 title: Developers
 ---
 ![_config.yml](http://icons.iconarchive.com/icons/janosch500/tropical-waters-folders/512/Developers-icon.png)
+
 Learn more about developers and their roles
 
 ![_config.yml](http://www.vinedigital.co.uk/images/icons/web-design-icon.png)
